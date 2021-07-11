@@ -16,9 +16,9 @@
 
 ### screenshots 
 
-![screenshot](Screenshot1.png)
+![screenshot](https://github.com/nitishsaini706/references-images/blob/main/dstorage/Screenshot1.png)
 
 
-![screenshot](Screenshot2.png)
+![screenshot](https://github.com/nitishsaini706/references-images/blob/main/dstorage/Screenshot2.png)
 
 
